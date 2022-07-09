@@ -4,9 +4,6 @@
 #include <random>
 #include <vector>
 #include <cmath>
-
-#include "LearnCpp.h"
-#include "LearnCpp.h"
 #include "MinimumCostToMultiplyToB.h"
 
 using namespace std;

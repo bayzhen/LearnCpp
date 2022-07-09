@@ -12,7 +12,7 @@ void BuildTheTable(std::vector<int> v, int p);
     void Official();
 private:
     static constexpr int n = 5;
-    static constexpr int B = 15;
-    const std::vector<int> A = {3,8,7};
+    static constexpr int B = 1000;
+    const std::vector<int> A = {3,8,7,6,7,2,7,8};
     std::vector<std::vector<int>> dp;
 };
